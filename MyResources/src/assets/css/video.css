@@ -1,0 +1,9 @@
+body {
+    overflow-x: hidden;
+}
+
+body, div, form, ul, ol, dl, li, table, th, td, tr, p, h1, h2, h3, h4, h5, h6,
+.el-header, .el-main, .el-footer, .el-aside {
+    margin: 0;
+    padding: 0;
+}
